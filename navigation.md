@@ -1,6 +1,6 @@
 # NOTEBOOK
 
-[CONTENTS](navigation1.md)
+[CONTENTS](navigation.md)
 
 [Notes]()
 
