@@ -1,6 +1,8 @@
 # About
 
-Welcome to visit my online notebook! 
+Welcome to the homepage of **Wang Xuan**.
 
-I'd like to share with you some **Notes and Ideas** I've learned form the course ***Management Research Tools***.
+I 'd like to share some of my **Notes and Ideas** from the course ***Management Research Tools***  on this homepage.
+
+
 
