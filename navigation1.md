@@ -15,7 +15,7 @@
 
 
 
-[gimmick:theme](slate)
+[gimmick:theme](yeti)
 [gimmick: math]()
 
 
