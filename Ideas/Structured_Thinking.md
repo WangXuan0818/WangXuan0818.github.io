@@ -10,4 +10,4 @@
 
 ​		最后讲一下最近几个月接触到的“结构化思考”。疫情在家的几个月经常刷B站，发现了一位擅长插画的咨询顾问[“鹿懂懂”](https://space.bilibili.com/494096334?share_medium=android&share_source=copy_link&bbid=XY0D0260943C25D20D8D276296B02D4A7A409&ts=1589960134116)。她的视频基本上都是用自己在咨询行业所训练出的结构化思考能力去分析一些热点现象，当时在她的“严肃脱单指南”这只视频下面的留言还上了热评哈哈哈~
 
-![image-20200520153435963](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20200520153435963.png)
+![image-20200520153435963](D:\02 Study\01 NJU\01 Course\03Junior\大三下\课程文件\管理学研究工具\week 15\github_io\WangXuan0818.github.io\Ideas\image-20200520153435963.png)
