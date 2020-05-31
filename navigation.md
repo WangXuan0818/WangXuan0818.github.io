@@ -4,14 +4,14 @@
 
 [Notes]()
 
-*   [Li Xiaolai](Notes_Ideas/Notes/Li_Xiaolai.md)
-*   [Xiao Biyan](Notes_Ideas/Notes/Xiao_Biyan.md)
-*   [Zhong Ping](Notes_Ideas/Notes/Zhong_Ping.md)
+*   [Li Xiaolai](Notes/Li_Xiaolai.md)
+*   [Xiao Biyan](Notes/Xiao_Biyan.md)
+*   [Zhong Ping](Notes/Zhong_Ping.md)
 
 [Ideas]()
 
-*   [English Learning Experience](Notes_Ideas/Ideas/English_Learning_Experience.md)
-*   [Structured Thinking](Notes_Ideas/Ideas/Structured_Thinking.md)
+*   [English Learning Experience](Ideas/English_Learning_Experience.md)
+*   [Structured Thinking](Ideas/Structured_Thinking.md)
 
 
 
