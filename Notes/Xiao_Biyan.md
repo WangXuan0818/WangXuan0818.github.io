@@ -33,7 +33,7 @@
 
 #### 六、高低点的界定
 
-![image](https://github.com/WangXuan0818/WangXuan0818.github.io/raw/master/Notes/image-20200511185920324.png)
+![image](https://github.com/WangXuan0818/WangXuan0818.github.io/raw/master/Notes/image1-XBY.png)
 
 #### 七、何时做单笔？
 
@@ -51,7 +51,7 @@
    1. 低点起扣（如2000以下）：停利点高（如30%）因为底部很低，一旦到了30%建议全部赎回
    2. 达到高点后，为了希望高点后可以再赎回，设置相对较低的停利点（如15%），一旦到了15%建议全部赎回
 
-![image](https://github.com/WangXuan0818/WangXuan0818.github.io/raw/master/Notes/image-20200511194950432.png)
+![image](https://github.com/WangXuan0818/WangXuan0818.github.io/raw/master/Notes/image2-XBY.png)
 
 #### 八、定投不停损，停扣可能会让“回来”的周期变得更长，甚至“回不来”
 
